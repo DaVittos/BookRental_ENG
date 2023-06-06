@@ -1,0 +1,22 @@
+C:\Users\dawid\source\repos\Library\Library\bin\Debug\net6.0\Book Rental.exe
+C:\Users\dawid\source\repos\Library\Library\bin\Debug\net6.0\Book Rental.deps.json
+C:\Users\dawid\source\repos\Library\Library\bin\Debug\net6.0\Book Rental.runtimeconfig.json
+C:\Users\dawid\source\repos\Library\Library\bin\Debug\net6.0\Book Rental.dll
+C:\Users\dawid\source\repos\Library\Library\bin\Debug\net6.0\Book Rental.pdb
+C:\Users\dawid\source\repos\Library\Library\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\dawid\source\repos\Library\Library\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\dawid\source\repos\Library\Library\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\dawid\source\repos\Library\Library\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\dawid\source\repos\Library\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dawid\source\repos\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dawid\source\repos\Library\Library\obj\Debug\net6.0\Book Rental.csproj.AssemblyReference.cache
+C:\Users\dawid\source\repos\Library\Library\obj\Debug\net6.0\Book Rental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\source\repos\Library\Library\obj\Debug\net6.0\Book Rental.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\Library\Library\obj\Debug\net6.0\Book Rental.AssemblyInfo.cs
+C:\Users\dawid\source\repos\Library\Library\obj\Debug\net6.0\Book Rental.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\Library\Library\obj\Debug\net6.0\Book Rental.csproj.CopyComplete
+C:\Users\dawid\source\repos\Library\Library\obj\Debug\net6.0\Book Rental.dll
+C:\Users\dawid\source\repos\Library\Library\obj\Debug\net6.0\refint\Book Rental.dll
+C:\Users\dawid\source\repos\Library\Library\obj\Debug\net6.0\Book Rental.pdb
+C:\Users\dawid\source\repos\Library\Library\obj\Debug\net6.0\Book Rental.genruntimeconfig.cache
+C:\Users\dawid\source\repos\Library\Library\obj\Debug\net6.0\ref\Book Rental.dll
